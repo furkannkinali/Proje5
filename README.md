@@ -1,0 +1,1 @@
+This code gives you a some knowledge on how a hibernation module works with practical output using a ARM processor. Hibernation is one of the low power mode where the power to processor is cut when the processor is not in use. An external signal or RTC is used wake the system from hibernation.
